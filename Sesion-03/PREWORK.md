@@ -224,58 +224,6 @@ Pero, ¿qué pasa si queremos filtrar ahora los números nones y obtener una lis
 
 ¡Hey, hey, hey! ¿Qué está pasando ahí? ¿"Lambda" quién? Esto que acabamos de hacer requirió una nueva herramienta que será nuestro último tema de la sesión de hoy: `funciones lambda`. Vamos a entender cómo funcionan y luego regresamos a este último ejemplo y lo analizamos.
 
-#### Funciones lambda
-
-Las funciones `lambda` son simplemente maneras simplificadas de escribir las funciones que ya conocemos tan bien. No necesitamos entender ningún nuevo concepto, sólo aprender una nueva sintaxis. La sintaxis de una función `lambda` es la siguiente. Primero escribimos la palabra `lambda`:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_34.png'></div>
-
-Ahora, agregamos los nombres de nuestro parámetro (o parámetros):
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_35.png'></div>
-
-En este caso tenemos un sólo parámetro llamado `x`.
-
-Nuestro siguiente paso es agregar dos puntos (`:`). Todo lo que esté escrito después de los dos puntos será nuestro "bloque" de la función:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_36.png'></div>
-
-Como las funciones `lambda` son funciones simplificadas, no podemos escribir como tal todo un bloque completo para nuestra función. Lo único que podemos hacer es escribir una única sentencia que sería la que estaría escrita después de nuestro `return`. Es decir, la única sentencia de nuestra función `lambda` es la que regresa el valor final de nuestra función:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_37.png'></div>
-
-Como puedes ver, las funciones `lambda` sólo sirven si queremos realizar procesos muy sencillos. En este caso, nuestra función recibe un solo parámetro `x` y regresa `x * 100`. Cualquier función que podamos escribir en una sóla línea podría ser una función `lambda`.
-
-Ahora, ¿cómo es que usamos una de estas funciones `lambda`? Podemos pasarlas directamente a nuestras funciones `map` y `filter`. Si nuestra función es muy sencilla, podemos ahorrarnos tiempo y espacio y definir nuestra función ahí mismo en lugar de tener que declararla primero usando `def`. Por ejemplo:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_38.png'></div>
-
-¿Ves? Le hemos pasado nuestra función `lambda` al `map` y obtenido de regreso una `lista` con todos nuestros valores multiplicados por 100.
-
-Veamos otro ejemplo usando `map`:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_39.png'></div>
-
-Esta función `lambda` nos regresa el número `x` multiplicado por la suma de `x + 1`.
-
-Ahora veamos cómo usarlas con `filter`:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_40.png'></div>
-
-Aquí estamos filtrando todos los números iguales o menores a 5 con una sola línea.
-
-Veamos ahora qué pasaba en nuestro ejemplo de arriba:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_32.png'></div>
-
-Lo que está pasando aquí es que la función `lambda` recibe nuestro número (`x`), lo pasa a la función `numero_es_par` y luego regresa el opuesto usando `not`. ¡Así podemos revertir el funcionamiento de nuestra función original en una sola línea!
-
-Podríamos incluso rehacer nuestra función `numero_es_par_o_mayor_a_50` en una sola línea:
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_42.png'></div>
-
-¿No te parece genial?
-
 ---
 
 Con todo lo que aprendimos el día de hoy estamos ya listos para sumergirnos en el mundo de la ciencia de datos. Asegúrate de entender todos estos temas a la perfección para que te sientas cómodo con lo que veremos a continuación. ¡Feliz aprendizaje!
