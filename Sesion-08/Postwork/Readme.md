@@ -21,4 +21,16 @@ Este último Postwork tiene 2 Partes:
 
 2. La segunda parte consiste en hacer planes para el futuro. El Procesamiento de Datos es sólo la fase "preparatoria". Después siguen las tres fases que le terminan de dar forma a todo proyecto de Ciencia de Datos: Análisis Estadístico, Visualización y Predicción/Inferencia. Esta última fase (Predicción) no siempre está presente y no siempre es necesaria. Pero el Análisis Estadístico y la Visualización son partes intrínsecas de la Ciencia de Datos. La segunda parte de este Postwork consiste en hacer planes a futuro. Piensa qué puedes hacer con los datos que tienes. ¿Qué te gustaría analizar? ¿Qué información está disponible en tus datos? ¿Cómo podrías ayudarte a entender mejor los datos usando gráficas y visualizaciones? Has una lista de tus planes a futuro. Seguramente esa lista irá cambiando conforme avances en el siguiente módulo, pero es un gran comienzo para tener una dirección clara.
 
+##### (Para tu entrega final)
+
+Ha llegado el momento de la verdad para tu entrega final. Hagan un folder con los nombres de tu equipo de la siguiente manera: "Entrega_Final_Procesamiento_RafaelArias_MichaelJordan_DarthVader". Coloquen dentro de este folder su entrega escrita y su Jupyter Notebook final.
+
+Simplemente asegúrate de que tu entrega escrita este lista, en cuanto a contenido y formato. Asegúrate de haber explicado tus decisiones a través de las diferentes exploraciones y actividades, y asegúrate de justificar tu texto, agregar títulos, etc.
+
+Por otro lado, también es momento de conjuntar todo tu código en un sólo notebook, ordenarlo, comentarlo, limpiarlo y entregarlo. Te recomiendo altamente correrlo todo de principio a fin para asegurarte que funcione con el dataset y que no hay errores.
+
+Si tu dataset no está en la nube, asegúrate de también agregarlo a tu folder de entrega ¡para que nosotros podamos correr correctamente tu código!
+
 ¡Felicidades y mucha suerte! ¡Esperamos verte en el próximo módulo de Análisis Estadístico y Visualización!
+
+

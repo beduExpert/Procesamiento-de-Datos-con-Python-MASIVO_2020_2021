@@ -54,3 +54,7 @@ Vamos a buscar nuestro dataset, entonces. Éstas son algunas fuentes donde puede
 Busca estas fuentes para encontrar algo que te sea de utilidad. Si no encuentras lo que buscas, puedes preguntarle a la experta para ver si conoce otras fuentes.
 
 Una vez que encuentres tu dataset, descárgalo y guárdalo en la carpeta [Datasets](../../Datasets/Readme.md) que está en la raíz del repositorio de este módulo. En caso de que encuentres una API que provea los datos que necesites, habla con la experta para que te ayude a descargar el conjunto de datos. El tema de APIs se explorará a más profundidad en una sesión posterior, pero por lo pronto la experta puede proveerte el código o el software necesario para descargar tus datos exitosamente.
+
+##### (Para tu entrega final)
+
+En esta sesión sería un buen momento para hacer 2 cosas: 1. Documenta tu proceso para obtener el dataset, junto con comentarios relevantes sobre la información que consiguieron (o cómo la consiguieron). 2. De ahora en adelante, comiencen a rastrear bien el código que usan para obtener el dataset y para procesarlo. Recuerden que al final deberán juntar todo el código que usaron en los avances de cada sesión en un Notebook ordenado y limpio.

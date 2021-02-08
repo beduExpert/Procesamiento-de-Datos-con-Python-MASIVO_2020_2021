@@ -23,3 +23,7 @@ En este Postwork vamos a dejar descansar un poquito nuestro dataset. La única m
 7. Si has encontrado un dataset que complementa la información de tu dataset original (el que has estado trabajando durante todas las sesiones), ve si puedes unirlos en un solo `DataFrame` que incluya la información útil de ambos.
 
 > **Extra**: Puedes también explorar la posibilidad de automatizar algunos de los procesos de limpieza que has realizado con tu dataset. Si encuentras dónde podría ser útil y te animas a hacerlo, recuerda proteger tu código con estructuras `try except` para que la automatización no falle.
+
+##### (Para tu entrega final)
+
+Esta entrega es opcional. Si quieren unos puntos extras, pueden entregar un Notebook extra donde hagan lo que se pide arriba. No es necesario entregar un documento escrito sobre esta entrega. Simplemente asegúrense que su código esté bien comentado y ordenado.

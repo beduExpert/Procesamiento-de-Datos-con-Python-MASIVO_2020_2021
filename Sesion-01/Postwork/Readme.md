@@ -1,4 +1,18 @@
  ## Nombre del Postwork: Identificación del Problema
+ 
+### PROYECTO INTEGRAL
+- A través de los diversos postworks de este módulo crearás un proyecto que usarás en tu siguiente módulo. En este módulo, tu meta será la siguiente:
+1. Identificar un tema que quieras resolver o explorar a través del uso de datos.
+2. Plantear una serie de preguntas sobre lo que deseas conocer/resolver sobre este tema.
+3. Obtener una colección de datos que tengan la información necesaria para poder resolver tus preguntas.
+4. Hacer una análisis preliminar sobre tus datos, intentando detectar puntos importantes en tus datos.
+5. Limpiar tus datos y comenzar a obtener información general para tu problema.
+6. Transformar, filtrar y ordenar tus datos para que estén listos para hacer un análisis más profundo en el siguiente módulo.
+7. Ordenar tu código para una entrega profesional.
+
+- Al final de tus sesiones, cada equipo deberá entregar dos archivos:
+1. Un documento escrito que contenga tus preguntas, análisis, comentarios e información de tu proyecto.
+2. Un Jupyter Notebook que contenga todo el código usado para poder haber hecho tu análisis escrito. El código debe estar ordenado y limpio.
 
 ### OBJETIVO 
 
@@ -53,3 +67,7 @@ Para todo problema que nos planteamos, lo más probable es que alguien más ya s
 ---
 
 Realiza los 3 pasos anteriores con 1 o más problemas que se te ocurran. Podría ser más de uno para tener "backups" en caso de que uno de los problemas que te interesen resulte demasiado complicado de abordar. Debate con tus compañeros y con la experta qué tipos de problemas valen la pena ser abordados y si la Ciencia de Datos puede ofrecernos soluciones o conocimiento acerca del problema.
+
+##### (Para tu entrega final)
+
+Sería buena idea ir haciendo un resumen de los tres puntos anteriores, para integrarlo posteriormente a tu documento final: ¿Qué problema identificaron? ¿Qué investigaron sobre el tema? ¿Qué soluciones se han intentado/hecho anteriormente para intentar entender/resolver el problema?

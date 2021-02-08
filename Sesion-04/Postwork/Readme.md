@@ -23,3 +23,7 @@ Algunas de las preguntas que estamos intentando responder en esta exploración s
 5. Si selecciono algunas filas al azar y las observo, ¿estoy obteniendo los datos que debería? ¿O hay datos que parecen estar "sucios" o "incorrectos"?
 
 Responde estas preguntas usando las técnicas que aprendiste en esta sesión y comparte tus hallazgos con tus compañeros y la experta.
+
+##### (Para tu entrega final)
+
+Escriban en su archivo de entrega final qué hallazgos preliminares encontraros en su exploración básica de datos. Asimismo, no se olviden de guardar bien su código para entregarlo en el Notebook final.

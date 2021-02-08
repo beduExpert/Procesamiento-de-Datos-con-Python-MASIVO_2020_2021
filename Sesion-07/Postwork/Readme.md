@@ -26,3 +26,7 @@ Para aplicar en tu dataset lo que vimos en esta sesión, realiza las siguientes 
 Comparte tus dudas y hallazgos con tus compañeros y con la experta, de manera que todos puedan nutrirse mutuamente de su trabajo.
 
 ¡Bonne chance!
+
+##### (Para tu entrega final)
+
+Recuerda, una vez más, ir documentando todo en tu entrega escrita e ir guardando tu código. ¡Estamos cerca de la entrega final!

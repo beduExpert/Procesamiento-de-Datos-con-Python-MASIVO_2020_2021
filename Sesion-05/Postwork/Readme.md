@@ -27,3 +27,7 @@ Ya que tenemos nuestro dataset en un `DataFrame` y que hemos realizado una prime
 <div style="padding: 10px; margin: 20px"><img src='../Imgs/sesion-5_47.png'></div>
 
 Si tienes cualquier duda, ¡pregúntale a tu experta!
+
+##### (Para tu entrega final)
+
+Al igual que la sesión pasada, sólo asegúrense de ir documentando su proceso, hallazgos y de ir guardando su código :).

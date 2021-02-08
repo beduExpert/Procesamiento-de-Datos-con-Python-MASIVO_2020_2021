@@ -39,3 +39,7 @@ g) Hay alguna relación entre el número de recámaras y el precio de una propie
 ---
 
 Plantea una serie de preguntas sobre el problema que te interesa y debate con tus compañeros y la experta si son las mejores preguntas que se pueden hacer para resolver el problema, o si son preguntas que es posible responder.
+
+##### (Para tu entrega final)
+
+Al igual que en la sesión pasada, asegurate de ir apuntando tus preguntas en el documento final que entregarás. ¡Suerte!
