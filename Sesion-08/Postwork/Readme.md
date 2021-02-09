@@ -31,9 +31,9 @@ Por otro lado, también es momento de conjuntar todo tu código en un sólo note
 
 Si tu dataset no está en la nube, asegúrate de también agregarlo a tu folder de entrega ¡para que nosotros podamos correr correctamente tu código!
 
-Finalmente deberás hacer un video presentando tu proyecto. Prepara diapositivas explicando lo que hiciste. Debes de al menos explicar lo siguiente: 1. Explicar porqué escogieron su problema en específico. 2. Explicar su documento (las preguntas, cómo coleccionaron los datos, qué hallazgos encontraron etc). 3. Explicar si tuvieron problemas, cuáles fueron y cómo los resolvieron.
+Finalmente deberás hacer un video presentando tu proyecto. Prepara diapositivas explicando lo que hiciste. Debes de al menos explicar lo siguiente: 1. Explicar porqué escogieron su problema en específico. 2. Explicar brevemente su documento y código (las preguntas, cómo coleccionaron los datos, qué hallazgos encontraron etc). 3. Explicar si tuvieron problemas, cuáles fueron y cómo los resolvieron.
 
-El video no debe durar más de 10 mins.
+El video no debe durar más de 5 mins.
 
 ¡Felicidades y mucha suerte! ¡Esperamos verte en el próximo módulo de Análisis Estadístico y Visualización!
 
