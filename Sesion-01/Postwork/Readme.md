@@ -10,10 +10,11 @@
 6. Transformar, filtrar y ordenar tus datos para que estén listos para hacer un análisis más profundo en el siguiente módulo.
 7. Ordenar tu código para una entrega profesional.
 
-- Al final de sus sesiones, cada equipo deberá entregar dos (o tres) archivos:
+- Al final de sus sesiones, cada equipo deberá entregar tres (o cuatro) archivos:
 1. Un documento escrito que contenga tus preguntas, análisis, comentarios e información de tu proyecto.
 2. Un Jupyter Notebook que contenga todo el código usado para poder haber hecho tu análisis escrito. El código debe estar ordenado y limpio.
-3. Si el dataset que el equipo obtuvo no está en la nube, también deberán entregar la versión RAW (sin modificaciones) de su dataset.
+3. Un video explicando tu proyecto, hallazgos y código a modo de presentación.
+4. Si el dataset que el equipo obtuvo no está en la nube, también deberán entregar la versión RAW (sin modificaciones) de su dataset.
 
 ### OBJETIVO 
 
